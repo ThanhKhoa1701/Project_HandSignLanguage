@@ -1,2 +1,2 @@
 # Project_HandSignLanguage
-![alt text](A hand sign language.png)
+![alt text](A hand sign language.jpg)
